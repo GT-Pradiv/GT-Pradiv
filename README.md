@@ -21,3 +21,5 @@ Version Control: Git, GitHub/GitLab workflows.
 
 Scripting: Bash, Python (implied by automation needs; will add if applicable).
 
+![Project Screenshot](Tree.png)
+
