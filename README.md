@@ -1,16 +1,23 @@
-## Hi there 👋
+Technical Skills
 
-<!--
-**GT-Pradiv/GT-Pradiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infrastructure as Code (IaC): Terraform (Terraform 003 Certified – Targeted),
+configuration management principles.
 
-Here are some ideas to get you started:
+Containerization & Orchestration: Kubernetes (CKA-level understanding), Docker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cloud Platforms: AWS (DOP-C02 level understanding), cloud architecture, services,
+and best practices.
+
+Operating Systems: Linux (LFCS-level proficiency), command-line tools, system
+administration.
+
+CI/CD & Automation: Jenkins, Ansible, pipeline automation, continuous delivery
+principles.
+
+Emerging Technologies: Generative AI for DevOps/DevSecOps, PromptOps, AI-driven
+automation concepts.
+
+Version Control: Git, GitHub/GitLab workflows.
+
+Scripting: Bash, Python (implied by automation needs; will add if applicable).
+
