@@ -1,25 +1,22 @@
-### Hi there 👋 I'm Pradiv Gnanaraj, an L2 Support Engineer with a passion for SaaS troubleshooting and a drive for automation.
+### Hi there 👋 I'm Pradiv Gnanaraj, a Technical Support Engineer passionate about process improvement and team leadership.
 
-I currently work with a leading AI-based SaaS company, where I specialize in resolving complex technical issues and improving system stability. My background in systems and infrastructure, particularly with ESXi, gives me a unique perspective on managing and optimizing cloud-native applications.
+I currently work with a leading AI-based SaaS company, where I specialize in resolving complex technical issues and improving system stability. My background in systems and infrastructure, particularly with ESXi, gives me a unique perspective on managing technical operations and optimizing cloud-native applications.
 
-I'm on a mission to transition into a DevOps Engineer role, and I'm actively building an end-to-end portfolio to demonstrate my skills in automation, CI/CD, and cloud infrastructure.
-
-
+I'm focused on a **Technical Support Leadership Track**, actively building a portfolio of knowledge and processes to streamline operations and enhance team performance.
 
 ---
 
 ### What I'm Doing Now
 
-* **Solving SaaS Issues:** I'm gaining real-world experience in API troubleshooting (OAuth2, SAML), scripting (Python, Bash), and resolving database and cloud-related issues.
-* **Building a Portfolio:** I'm creating live projects to showcase my proficiency in DevOps tools. You can view my progress on my pinned repositories below.
-* **Creating Content:** I'm documenting my learnings and most common troubleshooting scenarios on my blog and in my self-published book, which you can soon find here: [Link to your website/blog]
-* **Growing a Business:** I am building a portfolio of digital products on Gumroad to share my knowledge with the community and create a passive income stream.
+* **Improving SaaS Workflows:** I'm gaining real-world experience in API troubleshooting (OAuth2, SAML), scripting (Python, Bash), and resolving common database and cloud-related issues to identify key areas for process automation.
+* **Building a Knowledge Base:** I'm documenting my learnings and most common troubleshooting scenarios on my blog and in a self-published book, which you can soon find here: [Link to your website/blog]. This content is designed to empower L1 support and reduce escalation rates.
+* **Growing a Business:** I am building a portfolio of digital products on Gumroad to share my knowledge with the community and create a passive income stream. This also allows me to explore team management and scaling from a business perspective.
 
 ---
 
 ### My Toolkit
 
-_A visual representation of the technologies I use and am currently learning._
+_A visual representation of the technologies I use and am currently learning. These are the tools I use to analyze and improve technical operations._
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Badge"/>
@@ -34,11 +31,11 @@ _A visual representation of the technologies I use and am currently learning._
 
 ### My Latest Projects
 
-_Check out these projects to see my skills in action._
+_These projects demonstrate my skills in process improvement and technical documentation._
 
-- **[Project Name 1]:** A brief, one-sentence description of the project. Include the technologies used and what it demonstrates.
-- **[Project Name 2]:** A brief, one-sentence description of the project. Include the technologies used and what it demonstrates.
-- **[Project Name 3]:** A brief, one-sentence description of the project. Include the technologies used and what it demonstrates.
+- **[Project Name 1]:** A brief, one-sentence description of the project. This should focus on a process improvement or a guide you created.
+- **[Project Name 2]:** A brief, one-sentence description of the project. This should highlight how you used a skill to solve a workflow problem.
+- **[Project Name 3]:** A brief, one-sentence description of the project. This could be about a piece of content you created to help others.
 
 ---
 
